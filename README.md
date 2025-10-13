@@ -1,130 +1,141 @@
-<!-- Banner -->
+<!-- 🌌 3D Banner (Full Width) -->
 <p align="center">
-  <img src="https://i.ibb.co/jgfjhKZ/coding-banner.gif" alt="Coding Banner" width="800"/>
+  <img src="https://github.com/DenverCoder1/DenverCoder1/blob/main/assets/animated-banner.gif" alt="3D Developer Banner" width="100%"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- 🧠 Typing Animation -->
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=Hey+I'm+Ritik+Jat!;MERN+Stack+Developer;Passionate+about+Frontend+%26+UI/UX;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ritik+Jat!;MERN+Stack+Developer;Frontend+%26+UI%2FUX+Enthusiast;Building+Creative+Digital+Experiences" alt="Typing Animation" />
 </p>
 
 ---
 
-<h2 align="center">💻 About Me</h2>
+<h2 align="center">💫 About Me</h2>
 
-👋 Hi, I'm **Ritik Jat** from **Indore, India** — a passionate and detail-oriented **MERN Stack Developer**.  
-I love crafting **modern, responsive, and user-centric** web applications that deliver seamless digital experiences.
+<p align="center">
+  <img src="https://i.ibb.co/6wmz9TX/coding-boy.gif" width="200" alt="Coding Boy GIF"/>
+</p>
+
+👋 Hi, I'm **Ritik Jat** from **Indore, India** — a passionate **MERN Stack Developer** with a love for building  
+**modern, interactive, and user-focused** web experiences that feel smooth and alive.  
 
 🎓 **B.Tech Graduate** from *SKC LNCT College*  
-🌱 Currently exploring **Next.js** & **TypeScript**  
-💡 Passionate about **frontend performance** and **clean UI architecture**  
-📫 **Reach me:** `ritikdudee00@gmail.com`
+🌱 Currently exploring **Next.js**, **TypeScript**, and **3D Web Experiences (Three.js)**  
+💡 Passionate about **Frontend Architecture**, **Performance Optimization**, and **Pixel-Perfect Design**  
+📫 Reach me at → `ritikdudee00@gmail.com`  
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">⚙️ Tech Universe</h2>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,figma&theme=light" />
+</p>
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-  <!-- Backend -->
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-  <!-- Database -->
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-  <!-- Tools -->
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
+<p align="center">
+  <img src="https://i.ibb.co/xHYJjX9/3d-laptop.gif" width="250" alt="3D Laptop"/>
 </p>
 
 ---
 
-<h2 align="center">🌟 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 ### 💻 **LaptopDekho – Laptop Resale Platform**
+> *Where old tech finds new owners.*
 
-💡 "Where old tech finds new owners."
+- Built with **MERN Stack**
+- 🔎 Advanced **search, filters, and sorting**
+- 🔐 Secure login for buyers & sellers
+- 🎨 Clean UI with **TailwindCSS** + React Hooks
+- 💡 Real-world performance & UX focused  
 
-- ⚙️ Developed using MongoDB, Express, React, and Node.js
-- 🧭 Implemented advanced search, filter, and price-sorting features
-- 🔐 Integrated secure user authentication for buyers & sellers
-- 🎨 Crafted a sleek, responsive UI using Tailwind CSS and React Hooks
-- 🚀 Focused on real-world usability, ensuring a smooth and reliable user journey
+🧩 [View Project](#) | 🌐 [Live Demo](#)
 
-### 🧭 **TravelX – Multi-Page Travel Website**
-- Responsive multi-page website built using **React** & **Tailwind CSS**
-- Implemented gallery animations, parallax effects, and smooth scroll UI  
-- Optimized for performance and mobile accessibility  
+---
+
+### 🧭 **TravelX – Modern Travel Website**
+- Built with **React** + **Tailwind CSS**
+- 🌄 Parallax animations + smooth scroll UI  
+- 📱 Fully responsive & performance optimized  
+
+🧩 [View Project](#) | 🌐 [Live Demo](#)
+
+---
 
 ### 🤖 **AI Chatbot**
-- Built using **React** + **OpenAI API** for smart conversations  
-- Integrated custom logic and multilingual response system  
+- ⚡ Powered by **OpenAI API** & **React**
+- 🌍 Supports **multilingual conversations**  
+- 🧠 Custom logic for smart replies  
 
-### 🗣️ **Speech-to-Text Bot**
-- Real-time speech recognition using the **Web Speech API**  
-- Converts spoken input to text with a clean UI  
-
-### 🍽️ **Restaurant Menu App**
-- Designed an animated and filterable menu bar for restaurant websites  
-- Integrated category-based filtering and dynamic food cards  
+🧩 [View Project](#)
 
 ---
 
 <h2 align="center">🏆 Achievements</h2>
 
-- 🥇 Completed multiple **frontend and full-stack MERN projects**
-- 💬 Built **AI-driven chatbots** and **voice-based web apps**
-- 🚀 Contributed to open-source projects
-- 🎨 Recognized for **UI/UX design precision and code quality**
+- 🥇 Built multiple **Full Stack MERN Projects**
+- 💬 Created **AI-powered & Voice-based** web tools
+- 🚀 Contributed to **Open Source**
+- 🎨 Recognized for **Clean UI/UX & Code Quality**
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritikjat123&show_icons=true&theme=tokyonight&hide_border=true" height="165em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikjat123&layout=compact&theme=tokyonight&hide_border=true" height="165em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritikjat123&show_icons=true&theme=radical&hide_border=true" height="165em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikjat123&layout=compact&theme=radical&hide_border=true" height="165em"/>
+</p>
+
+<!-- ✅ Working GitHub Streak Stats -->
+---
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  Stay consistent, stay coding! Here's my current GitHub streak:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikjat123&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Ritikjat123&theme=tokyo-night&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ritikjat123&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  Keep the streak alive and keep building! 💻🚀
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+
+---
+
+<h2 align="center">🧩 3D Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikjat123&theme=tokyo-night&hide_border=true&area=true" alt="3D GitHub Contribution Graph"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ritik-jat-096ab0225/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ritikdudee01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:ritikdudee01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Ritikjat123" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Ritikjat123">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💡 *"Code. Learn. Build. Repeat."*  
+  <img src="https://i.ibb.co/R3hRj9F/3d-coder.gif" width="220" alt="3D Developer GIF"/>
 </p>
+
+<h3 align="center">💡 “Code. Create. Collaborate.” 💡</h3>
